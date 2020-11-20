@@ -25,3 +25,5 @@ int IWeapon::IsCriticalHit()
 	}
 }
 
+// dodaje komentarz dla testu
+
