@@ -35,7 +35,7 @@ int main()
 	Kulp.Attack(Stwor3);
 	cout << Stwor.ActualHp << endl;
 
-	/*
+	
 	for (int i = 1; i <= 100; i++)
 	{
 		H.Attack();
@@ -44,7 +44,7 @@ int main()
 	
 	cout << "Zadales: " << H.SumaAtt << " obrazen hammerem" << endl;
 	cout << "Zadales: " << D.SumaAtt << " obrazen daggerem" << endl;
-	*/
+	
 
 
 	return 0;
